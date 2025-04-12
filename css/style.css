@@ -1,0 +1,152 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #fff;
+    color: #22343d;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    cursor: pointer;
+}
+
+.container {
+    width: 1150px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+
+.header {}
+
+.header-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-right: 237px;
+}
+
+.header-nav {
+    margin-right: auto;
+}
+
+.header-nav-list {
+    display: flex;
+    gap: 30px;
+}
+
+.header-nav-link {
+    display: block;
+    padding: 26px 0;
+}
+
+.header-btn-list {
+    display: flex;
+    gap: 21px;
+}
+
+.header-btn {
+
+}
+.hero-container{
+    display: flex;
+    align-items: center;
+}
+.hero-title {
+    margin-bottom:18px;
+}
+.hero-txt {
+    margin-bottom: 45px;
+    
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    margin-right: 35px;
+}
+.hero-btn-list {
+    display: flex;
+}
+.product-container {
+    /* display: flex;
+    align-items: center;
+    flex-direction: column; */
+   
+}
+.product-title {
+    display: block;
+  margin-bottom: 50px;
+}
+.product-list {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+.product-item {
+    flex-basis: calc((100% - 90px) / 4);
+}
+.menedgment-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.box-menedgment {
+    display: flex;
+    flex-direction: column;
+}
+.menedgment-container-text {
+    display: flex;
+    align-items: center;
+}
+.menedgment-txt {
+    margin-bottom: 8px;
+}
+
+ 
+ .menedgment-list {
+    display: flex;
+    flex-direction: column;
+ }
+ .management-title {
+    margin-bottom: 25px;
+ }
+ Accessory-title {
+    margin-bottom: 12px;
+ }
+.Accessory-txt {
+    margin-bottom: 25px;
+}
+.Alterationists-title {
+    margin-bottom: 12px;
+}
